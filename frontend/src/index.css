@@ -1,0 +1,78 @@
+:root {
+  --navy: #0e2a47;
+  --navy-2: #14476b;
+  --teal: #0f6e78;
+  --teal-2: #138a8f;
+  --teal-claro: #e3f3f2;
+  --texto: #1d2b3a;
+  --texto-2: #5b6b7c;
+  --borde: #e3e9ef;
+  --fondo: #f3f6f9;
+  --blanco: #ffffff;
+  --verde: #16a34a;
+  --ambar: #f59e0b;
+  --azul-neutro: #3b82f6;
+  --sombra: 0 1px 2px rgba(16, 42, 67, 0.06), 0 2px 8px rgba(16, 42, 67, 0.05);
+  --radio: 12px;
+
+  font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  color: var(--texto);
+  background: var(--fondo);
+  -webkit-font-smoothing: antialiased;
+  font-synthesis: none;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: var(--fondo);
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+ul,
+dl,
+dd {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+:focus-visible {
+  outline: 2px solid var(--teal-2);
+  outline-offset: 2px;
+}
+
+.girar {
+  animation: girar 0.9s linear infinite;
+}
+
+@keyframes girar {
+  to {
+    transform: rotate(360deg);
+  }
+}

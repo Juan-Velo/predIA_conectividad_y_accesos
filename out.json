@@ -1,0 +1,7113 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-06T03:25:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 27767592,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Peruana",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 27767596,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Los Gorriones",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 27767598,
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Las Gaviotas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 27767600,
+  "tags": {
+    "alt_name": "Avenida Andromeda",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Andrómeda",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 27877489,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Perseo",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 27877491,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Jirón Juno"
+  }
+},
+{
+  "type": "way",
+  "id": 27877499,
+  "tags": {
+    "cycleway:right": "no",
+    "highway": "primary",
+    "lanes": "5",
+    "maxspeed": "60",
+    "name": "Avenida Prolongación Paseo de la República",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28185509,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "3",
+    "maxspeed": "40",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28185521,
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "name": "Avenida Las Gaviotas",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "surface": "asphalt",
+    "width": "8"
+  }
+},
+{
+  "type": "way",
+  "id": 28185550,
+  "tags": {
+    "alt_name": "Avenida Andromeda",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Andrómeda",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28185554,
+  "tags": {
+    "alt_name": "Avenida Los Pumas;Calle Los Pumas",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Los Pumas",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28185556,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Avenida Guardia Peruana"
+  }
+},
+{
+  "type": "way",
+  "id": 28317017,
+  "tags": {
+    "highway": "residential",
+    "name": "Los Compositores",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317019,
+  "tags": {
+    "highway": "residential",
+    "name": "Los Labradores",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317021,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Los Poetas"
+  }
+},
+{
+  "type": "way",
+  "id": 28317022,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Capironas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317025,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Las Brenias",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317029,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Las Campanillas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317038,
+  "tags": {
+    "alt_name": "Jirón Los Zungaros",
+    "highway": "residential",
+    "name": "Calle Los Zúngaros",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317043,
+  "tags": {
+    "alt_name": "Jirón Manuel Raygada",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Calle Manuel Raygada",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317048,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Manglares",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317060,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Cipreces",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317065,
+  "tags": {
+    "highway": "residential",
+    "name": "Los Huarangos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317070,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Nogales",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317077,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Jirón Los Orfebres",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317084,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Los Tumbos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317088,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Musoos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317092,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Los Artesanos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317094,
+  "tags": {
+    "highway": "residential",
+    "name": "Los Jaguares",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28317099,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Los Venados"
+  }
+},
+{
+  "type": "way",
+  "id": 28866523,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Icaro",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28866529,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Ontario",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28866531,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Harold Crown",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28866533,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Donald Douglas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28866537,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Los Algarrobos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28866538,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Samanes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 28866540,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Jacaranda",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 32968953,
+  "tags": {
+    "highway": "residential",
+    "name": "Los Maestros"
+  }
+},
+{
+  "type": "way",
+  "id": 32968954,
+  "tags": {
+    "highway": "residential",
+    "name": "Los Bardos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 32968957,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Calle Los Galenos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 32968973,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Escritores",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 32968974,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Calle Los Pintores",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 32968976,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Los Carrizos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 32968979,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Jirón Luis de la Cuba",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 32968982,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Bartola Sánchez Dávila",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 32968986,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Karamanduka",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 72395562,
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "40",
+    "name": "Avenida Confraternidad"
+  }
+},
+{
+  "type": "way",
+  "id": 72395564,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida San Martin"
+  }
+},
+{
+  "type": "way",
+  "id": 72395566,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida San Martín"
+  }
+},
+{
+  "type": "way",
+  "id": 72395570,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida 28 de Julio"
+  }
+},
+{
+  "type": "way",
+  "id": 72499914,
+  "tags": {
+    "highway": "residential",
+    "name": "Santa Mercedes"
+  }
+},
+{
+  "type": "way",
+  "id": 72499928,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle Santa Lucila",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 72499930,
+  "tags": {
+    "alt_name": "Jirón San Patricio",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle San Patricio",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 72499942,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle San Luis",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 72499961,
+  "tags": {
+    "alt_name": "El Sol",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Avenida Santa Cruz",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111879996,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Jorge Chavez"
+  }
+},
+{
+  "type": "way",
+  "id": 111880097,
+  "tags": {
+    "highway": "residential",
+    "name": "Francisco de Zela",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111880210,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Sánchez Carrión"
+  }
+},
+{
+  "type": "way",
+  "id": 111880234,
+  "tags": {
+    "alt_name": "Avenida 2",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle Los Robles",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111880351,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 111880890,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Micaela Grau"
+  }
+},
+{
+  "type": "way",
+  "id": 111881628,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle 15 de Octubre"
+  }
+},
+{
+  "type": "way",
+  "id": 111882116,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Viña Queirolo"
+  }
+},
+{
+  "type": "way",
+  "id": 111882341,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Artemisa"
+  }
+},
+{
+  "type": "way",
+  "id": 111882508,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 111882543,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle 10 de Diciembre",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111882614,
+  "tags": {
+    "alt_name": "Avenida Perú",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Avenida José María Eguren",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111882686,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Monitor Huáscar"
+  }
+},
+{
+  "type": "way",
+  "id": 111882783,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Cordillera Oriental",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111883910,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Machu Picchu"
+  }
+},
+{
+  "type": "way",
+  "id": 111884120,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Túpac Amaru"
+  }
+},
+{
+  "type": "way",
+  "id": 111884709,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Cordillera Negra"
+  }
+},
+{
+  "type": "way",
+  "id": 111884898,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Laureles",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111886571,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Cordillera Blanca",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111886837,
+  "tags": {
+    "highway": "residential",
+    "name": "Elías Aguirre"
+  }
+},
+{
+  "type": "way",
+  "id": 111887056,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 111887958,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Nogales",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111889032,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Pelícanos"
+  }
+},
+{
+  "type": "way",
+  "id": 111889457,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 111890003,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Leoncio Prado",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111890379,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Nevado Raura"
+  }
+},
+{
+  "type": "way",
+  "id": 111890722,
+  "tags": {
+    "alt_name": "Calle Doña Maria",
+    "highway": "residential",
+    "name": "Calle Z",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111890913,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Las Palmeras"
+  }
+},
+{
+  "type": "way",
+  "id": 111891447,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida José Santos Chocano"
+  }
+},
+{
+  "type": "way",
+  "id": 111891969,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle Juan Velasco Alvarado",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111892769,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Lizandro de la Puente C.",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111892787,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Belen"
+  }
+},
+{
+  "type": "way",
+  "id": 111892797,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Cordillera Vilcanota",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111892991,
+  "tags": {
+    "alt_name": "Pasaje Caceres",
+    "highway": "residential",
+    "name": "Calle Francisco Bolognesi"
+  }
+},
+{
+  "type": "way",
+  "id": 111893563,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Corales"
+  }
+},
+{
+  "type": "way",
+  "id": 111893912,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle 4"
+  }
+},
+{
+  "type": "way",
+  "id": 111894962,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida 12",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111895449,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Santa Eva",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111895629,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Ciro Alegría"
+  }
+},
+{
+  "type": "way",
+  "id": 111895808,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle San Juan"
+  }
+},
+{
+  "type": "way",
+  "id": 111895851,
+  "tags": {
+    "access": "private",
+    "alt_name": "Gariano",
+    "highway": "residential",
+    "name": "Antonio Graña",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111895966,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Incas"
+  }
+},
+{
+  "type": "way",
+  "id": 111896181,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111896280,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Nevado Huascarán"
+  }
+},
+{
+  "type": "way",
+  "id": 111897550,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle Progreso",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111897662,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Áncash"
+  }
+},
+{
+  "type": "way",
+  "id": 111897947,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle Jorge Basadre",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111898014,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Micaela Bastidas"
+  }
+},
+{
+  "type": "way",
+  "id": 111899208,
+  "tags": {
+    "alt_name": "Jirón Garza Real",
+    "highway": "residential",
+    "name": "Avenida Tambo Real"
+  }
+},
+{
+  "type": "way",
+  "id": 111899415,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Maria Parado de Bellido"
+  }
+},
+{
+  "type": "way",
+  "id": 111899708,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 111900049,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Erick Fromm",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111900808,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón El Universo",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111900847,
+  "tags": {
+    "alt_name": "Sanchez Cerro",
+    "highway": "residential",
+    "name": "Jirón Pedro Ruiz Gallo"
+  }
+},
+{
+  "type": "way",
+  "id": 111903053,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "60",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 111906596,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 111907462,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Alipio Ponce",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111907564,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 111907890,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 111908411,
+  "tags": {
+    "alt_name": "Calle Percy Faith",
+    "highway": "residential",
+    "name": "Jirón Percy Faith",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 111909119,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Hipólito Unanue",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111909798,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Calle Carlos A. Saco",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111910774,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Víctor Raúl Haya de la Torre"
+  }
+},
+{
+  "type": "way",
+  "id": 111910813,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Casuarinas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111911595,
+  "tags": {
+    "highway": "tertiary",
+    "name": "Andrés Avelino Cáceres",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111911868,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Cordillera Occidental",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 111912180,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Mariano Melgar",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111913129,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 111913383,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Santa Isabel"
+  }
+},
+{
+  "type": "way",
+  "id": 111913474,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón G. Condorcanqui"
+  }
+},
+{
+  "type": "way",
+  "id": 111913635,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Nevado Conquis"
+  }
+},
+{
+  "type": "way",
+  "id": 111914917,
+  "tags": {
+    "alt_name": "Calle Vista Alegre",
+    "highway": "residential",
+    "name": "Calle Santiago Oré"
+  }
+},
+{
+  "type": "way",
+  "id": 111915043,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "30",
+    "name": "Jirón Tolomeo",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111915341,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle 5"
+  }
+},
+{
+  "type": "way",
+  "id": 111915639,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Pléyades"
+  }
+},
+{
+  "type": "way",
+  "id": 111916538,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 111916724,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Avenida Los Próceres",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111917714,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Nevado Conquis",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 111917927,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida 9 de Diciembre"
+  }
+},
+{
+  "type": "way",
+  "id": 111921435,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida M. Revollar"
+  }
+},
+{
+  "type": "way",
+  "id": 111921466,
+  "tags": {
+    "highway": "residential",
+    "name": "Arequipa"
+  }
+},
+{
+  "type": "way",
+  "id": 111921528,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Pinos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111921559,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Crisantemos"
+  }
+},
+{
+  "type": "way",
+  "id": 111922386,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Gladiolos"
+  }
+},
+{
+  "type": "way",
+  "id": 111923631,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Pléyades"
+  }
+},
+{
+  "type": "way",
+  "id": 111923854,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle San Pedro",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111924135,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Don Pompeyo",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111924706,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Los Próceres"
+  }
+},
+{
+  "type": "way",
+  "id": 111925239,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 111926006,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle 18 de Diciembre",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111926474,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Vulcano",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111926626,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Jorge Luis Borges",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111926911,
+  "tags": {
+    "alt_name": "Los Próceres",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle José Carlos Mariátegui"
+  }
+},
+{
+  "type": "way",
+  "id": 111927074,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Montevideo"
+  }
+},
+{
+  "type": "way",
+  "id": 111927574,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Teniente Carlos Jimenes Chávez"
+  }
+},
+{
+  "type": "way",
+  "id": 111928228,
+  "tags": {
+    "highway": "residential",
+    "name": "Doña Hortencia",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111928885,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 111928944,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Joan Miró",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111929628,
+  "tags": {
+    "alt_name": "Jirón Pico Coane",
+    "highway": "residential",
+    "name": "Jirón Pico Coan"
+  }
+},
+{
+  "type": "way",
+  "id": 111929935,
+  "tags": {
+    "access": "no",
+    "highway": "residential",
+    "lanes": "2",
+    "locked": "yes",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111930232,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Jerusalén"
+  }
+},
+{
+  "type": "way",
+  "id": 111931366,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 111932912,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Santa Teresa de Villa",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111933374,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111933503,
+  "tags": {
+    "cycleway:left": "track",
+    "highway": "secondary",
+    "lanes": "4",
+    "maxspeed": "40",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111933733,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Viña Tacama",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 111933942,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Avenida Velasco",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111935132,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida San Martín"
+  }
+},
+{
+  "type": "way",
+  "id": 111935474,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Ernesto Curril Carbonel",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111935547,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Francisco Bolognesi"
+  }
+},
+{
+  "type": "way",
+  "id": 111936247,
+  "tags": {
+    "alt_name": "Orquídeas",
+    "highway": "residential",
+    "name": "Calle Fernando Dolcci"
+  }
+},
+{
+  "type": "way",
+  "id": 111936699,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Miguel Grau",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111939467,
+  "tags": {
+    "alt_name": "Avenida Andromeda",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Andrómeda",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111940442,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Coronel José Gálvez"
+  }
+},
+{
+  "type": "way",
+  "id": 111940636,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle los Sinchis",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111942072,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Calle Inca Garcilaso de la Vega",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111943430,
+  "tags": {
+    "alt_name": "Sauces",
+    "highway": "residential",
+    "name": "Calle Los Incas",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 111944292,
+  "tags": {
+    "alt_name": "Avenida Cordillera Blanca",
+    "highway": "residential",
+    "name": "Avenida Giro Alegría",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 111944537,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Mariscal Andrés Avelino Cáceres"
+  }
+},
+{
+  "type": "way",
+  "id": 111944850,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón General Cordova"
+  }
+},
+{
+  "type": "way",
+  "id": 111945118,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Miguel Grau"
+  }
+},
+{
+  "type": "way",
+  "id": 111946118,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Los Sauces",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111946288,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Electra",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111947612,
+  "tags": {
+    "highway": "tertiary",
+    "name": "Pasaje Perú"
+  }
+},
+{
+  "type": "way",
+  "id": 111950031,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle 6"
+  }
+},
+{
+  "type": "way",
+  "id": 111951499,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Mariano Melgar",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111954779,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Jirón Francisco Trucio",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111955845,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111956232,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Los Asteroides"
+  }
+},
+{
+  "type": "way",
+  "id": 111956844,
+  "tags": {
+    "highway": "residential",
+    "name": "16 de Noviembre"
+  }
+},
+{
+  "type": "way",
+  "id": 111958812,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Progreso"
+  }
+},
+{
+  "type": "way",
+  "id": 111961031,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Jorge Chávez"
+  }
+},
+{
+  "type": "way",
+  "id": 111961531,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Cordillera Central",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111964425,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Nevado Cayrego"
+  }
+},
+{
+  "type": "way",
+  "id": 111965482,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle 9"
+  }
+},
+{
+  "type": "way",
+  "id": 111969562,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Margaritas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111970618,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Virgen del Carmen"
+  }
+},
+{
+  "type": "way",
+  "id": 111970755,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Huánuco",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 111970802,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle 8 de Octubre"
+  }
+},
+{
+  "type": "way",
+  "id": 153681370,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 153681371,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "3",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 153689070,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 153689071,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "Avenida Caminos del Inca",
+    "old_name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 157905276,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30",
+    "name": "Calle Los Meteoros",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 157905286,
+  "tags": {
+    "alt_name": "Calle San Pedro",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Calle Los Titanes",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 157905303,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "40",
+    "name": "Avenida General Murillo",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 157905304,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 157909964,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "35",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 157909969,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 157909972,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 163710796,
+  "tags": {
+    "alt_name": "Calle 2",
+    "highway": "residential",
+    "name": "Calle El Marabú"
+  }
+},
+{
+  "type": "way",
+  "id": 163710799,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Faisanes"
+  }
+},
+{
+  "type": "way",
+  "id": 163710801,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Los Cisnes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 163710804,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Ares"
+  }
+},
+{
+  "type": "way",
+  "id": 163710809,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Viña Venturo",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 163710811,
+  "tags": {
+    "alt_name": "Ex. Calle 2",
+    "highway": "residential",
+    "name": "Calle El Marabú",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 163710814,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Pléyades",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 163713607,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle Don Francisco",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 163717740,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Pedro Garcia Cabrera"
+  }
+},
+{
+  "type": "way",
+  "id": 163717741,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Ernesto",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 163717743,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Mantovani",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 163717744,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 163717745,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Guillermo Peñaloza"
+  }
+},
+{
+  "type": "way",
+  "id": 163717748,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Benjamín Franklin",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 163717753,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Lizandro de la Puente C.",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 163717956,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Albatros"
+  }
+},
+{
+  "type": "way",
+  "id": 163717958,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Artemisa",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 163717960,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Tambo Viejo"
+  }
+},
+{
+  "type": "way",
+  "id": 163717961,
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "40",
+    "name": "Avenida Las Gaviotas",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 163717964,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Fragatas"
+  }
+},
+{
+  "type": "way",
+  "id": 164105033,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Arquimedes"
+  }
+},
+{
+  "type": "way",
+  "id": 165079204,
+  "tags": {
+    "highway": "residential",
+    "junction": "roundabout",
+    "maxspeed": "20",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 165079205,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "20",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 165079206,
+  "tags": {
+    "access": "private",
+    "alt_name": "Jirón Los Zungaros",
+    "highway": "residential",
+    "lit": "yes",
+    "name": "Los Zungaros",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 166909476,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 166909477,
+  "tags": {
+    "highway": "residential",
+    "name": "6 de Enero"
+  }
+},
+{
+  "type": "way",
+  "id": 167001897,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle César Vallejo"
+  }
+},
+{
+  "type": "way",
+  "id": 167001898,
+  "tags": {
+    "alt_name": "Pasaje Buenos Aires",
+    "highway": "residential",
+    "name": "Calle Garcilaso de la Vega"
+  }
+},
+{
+  "type": "way",
+  "id": 167001901,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle S. Chocano"
+  }
+},
+{
+  "type": "way",
+  "id": 167001902,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Los Rosales"
+  }
+},
+{
+  "type": "way",
+  "id": 167001904,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Las Palmeras"
+  }
+},
+{
+  "type": "way",
+  "id": 167005502,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle G. Prada",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 167005503,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 167008293,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Ramón Castilla",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 167008297,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 167008298,
+  "tags": {
+    "highway": "residential",
+    "name": "M. Melgar"
+  }
+},
+{
+  "type": "way",
+  "id": 173699505,
+  "tags": {
+    "alt_name": "Jirón Diana",
+    "highway": "residential",
+    "name": "Jirón Maximiliano Velarde",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 173716155,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 173716156,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 173717010,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Ganímedes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 173717011,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle San Miguel",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 173717012,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Tambo Grande"
+  }
+},
+{
+  "type": "way",
+  "id": 173717015,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Tambo de Mora"
+  }
+},
+{
+  "type": "way",
+  "id": 173717016,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Teniente Carlos Jiménez Chávez",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 173717017,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 174032319,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "El Milagro",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 203294100,
+  "tags": {
+    "highway": "residential",
+    "name": "Arequipa"
+  }
+},
+{
+  "type": "way",
+  "id": 203294101,
+  "tags": {
+    "highway": "residential",
+    "name": "Simón Bolívar"
+  }
+},
+{
+  "type": "way",
+  "id": 203294104,
+  "tags": {
+    "highway": "residential",
+    "name": "Libertad"
+  }
+},
+{
+  "type": "way",
+  "id": 203294105,
+  "tags": {
+    "highway": "residential",
+    "name": "Perú"
+  }
+},
+{
+  "type": "way",
+  "id": 203294106,
+  "tags": {
+    "highway": "residential",
+    "name": "Santa Inés"
+  }
+},
+{
+  "type": "way",
+  "id": 203294121,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 203294125,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida R. Ventura"
+  }
+},
+{
+  "type": "way",
+  "id": 203294132,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Arequipa"
+  }
+},
+{
+  "type": "way",
+  "id": 203294138,
+  "tags": {
+    "highway": "residential",
+    "name": "28 de Julio"
+  }
+},
+{
+  "type": "way",
+  "id": 204637086,
+  "tags": {
+    "alt_name": "Santa Cruz",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 204638579,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle 1",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 271240814,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Apolo",
+    "oneway": "no",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 275284561,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Viña Picasso",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 275284837,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Viña Tabernero",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 275285738,
+  "tags": {
+    "alt_name": "Calle 2",
+    "highway": "residential",
+    "name": "Jirón Tucanes",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 275286565,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle El Colibrí"
+  }
+},
+{
+  "type": "way",
+  "id": 275286591,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Delos",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 275286616,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Delfos",
+    "oneway": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 275286664,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 275286717,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle Palace Atenea",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 275286940,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "noname": "yes",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 275297324,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Flores",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 275297443,
+  "tags": {
+    "highway": "residential",
+    "name": "Los Geranios",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 275297621,
+  "tags": {
+    "highway": "residential",
+    "name": "Las Orquídeas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 275297887,
+  "tags": {
+    "highway": "residential",
+    "name": "Las Camelias",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 275298554,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 275298705,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Ficus",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 275299016,
+  "tags": {
+    "highway": "living_street",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279062791,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Avenida Prolongación Paseo de la República",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279066163,
+  "tags": {
+    "cycleway:both": "no",
+    "cycleway:right": "sidepath",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279066166,
+  "tags": {
+    "alt_name": "Hualylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279066174,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279073162,
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Alameda Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279115112,
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "Avenida Prolongación Paseo de la República",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279115113,
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279115115,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Avenida Los Faisanes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279115821,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Los Alamos",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279115823,
+  "tags": {
+    "alt_name": "Flores",
+    "highway": "residential",
+    "name": "Calle Los Cedros",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279117079,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle X"
+  }
+},
+{
+  "type": "way",
+  "id": 279117080,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279117081,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Doña Mercedes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279117082,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279117083,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279117084,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 279117085,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 279117086,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Jirón Doña Victoria",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279117088,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 279117089,
+  "tags": {
+    "bicycle": "no",
+    "full_name": "Avenida General Alipio Ponce Vasquez",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Alipio Ponce",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279117090,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 279117091,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Y"
+  }
+},
+{
+  "type": "way",
+  "id": 279117094,
+  "tags": {
+    "cycleway:both": "no",
+    "cycleway:right": "track",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 285112726,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 294975842,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Santa Marina"
+  }
+},
+{
+  "type": "way",
+  "id": 294975843,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle J. Olaya"
+  }
+},
+{
+  "type": "way",
+  "id": 294975844,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle San Miguel"
+  }
+},
+{
+  "type": "way",
+  "id": 294975845,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Montevideo"
+  }
+},
+{
+  "type": "way",
+  "id": 316901482,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 316943977,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 325314637,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Pléyades",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 325314681,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "4",
+    "maxspeed": "40",
+    "name": "Avenida Los Faisanes",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 330976265,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 333877947,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Pléyades"
+  }
+},
+{
+  "type": "way",
+  "id": 333877948,
+  "tags": {
+    "alt_name": "El Sol",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida San Juan",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 336106429,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 336111672,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 337257699,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Alameda Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 337685848,
+  "tags": {
+    "alt_name": "Hualylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 337685849,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "35",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 337685852,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 337690751,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 337690752,
+  "tags": {
+    "alt_name": "Avenida Prolongación Ariosto Matellini",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 337690754,
+  "tags": {
+    "alt_name": "Hualylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "35",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 338232531,
+  "tags": {
+    "alt_name": "Rosas",
+    "highway": "residential",
+    "name": "Calle Los Olivos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 338346429,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Toribio Rodríguez de Mendoza"
+  }
+},
+{
+  "type": "way",
+  "id": 338346431,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Hipolito Unanue"
+  }
+},
+{
+  "type": "way",
+  "id": 338346432,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Víctor Raúl Haya de la Torre"
+  }
+},
+{
+  "type": "way",
+  "id": 344172537,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Peruana",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 351670101,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Calle Teniente Romero Leoua",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 353985358,
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "name": "Calle Palace Atenea",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 368703738,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "lanes": "2",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 371242983,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 371242985,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 371242988,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 371242990,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 371242992,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Machu Picchu"
+  }
+},
+{
+  "type": "way",
+  "id": 371242996,
+  "tags": {
+    "highway": "residential",
+    "name": "Independencia",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 371242997,
+  "tags": {
+    "highway": "residential",
+    "name": "Cañete"
+  }
+},
+{
+  "type": "way",
+  "id": 371242999,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Nevado Cayrego"
+  }
+},
+{
+  "type": "way",
+  "id": 371943236,
+  "tags": {
+    "highway": "residential",
+    "name": "10 de Noviembre",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 371943237,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 371943240,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Rinconada de Villa",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 371943242,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle San Roque"
+  }
+},
+{
+  "type": "way",
+  "id": 371943243,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Jose Olaya"
+  }
+},
+{
+  "type": "way",
+  "id": 372285820,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372285822,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle San Miguel",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372285826,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle 1",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372287360,
+  "tags": {
+    "alt_name": "Mariategui",
+    "highway": "residential",
+    "name": "Jirón M. Grau",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372287361,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Naranjos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372287362,
+  "tags": {
+    "alt_name": "Perla",
+    "highway": "residential",
+    "name": "Calle Abraham Valdel Omar"
+  }
+},
+{
+  "type": "way",
+  "id": 372287363,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Pachacutec"
+  }
+},
+{
+  "type": "way",
+  "id": 372287364,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 372287365,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Pinos"
+  }
+},
+{
+  "type": "way",
+  "id": 372287366,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Monitor Huáscar"
+  }
+},
+{
+  "type": "way",
+  "id": 372287367,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Ricardo Palma",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372287368,
+  "tags": {
+    "alt_name": "Calle Palma Ugarte",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle Alfonso Ugarte",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372287369,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Susperos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372287370,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 372287372,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 372287373,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 372287374,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Casuarinas"
+  }
+},
+{
+  "type": "way",
+  "id": 372287375,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle César Vallejo"
+  }
+},
+{
+  "type": "way",
+  "id": 372287376,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Pumacahua"
+  }
+},
+{
+  "type": "way",
+  "id": 372287377,
+  "tags": {
+    "alt_name": "Recuerdos",
+    "highway": "residential",
+    "name": "Calle Los Cipreses",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372287379,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Manzanos"
+  }
+},
+{
+  "type": "way",
+  "id": 372287380,
+  "tags": {
+    "highway": "residential",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372287382,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Palmeras",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372287383,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Palmeras"
+  }
+},
+{
+  "type": "way",
+  "id": 372287385,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Lirios"
+  }
+},
+{
+  "type": "way",
+  "id": 372287386,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Jazmines",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372287387,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 372287390,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 372288243,
+  "tags": {
+    "alt_name": "Avenida Perú",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Avenida José María Eguren",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372288244,
+  "tags": {
+    "alt_name": "Avenida Perú",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Avenida José María Eguren",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 372288245,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Guardia Peruana"
+  }
+},
+{
+  "type": "way",
+  "id": 372288246,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Petunias"
+  }
+},
+{
+  "type": "way",
+  "id": 372288247,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Magnolias"
+  }
+},
+{
+  "type": "way",
+  "id": 372288248,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 372288252,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Los Laureles"
+  }
+},
+{
+  "type": "way",
+  "id": 372288254,
+  "tags": {
+    "highway": "residential",
+    "name": "Dardos"
+  }
+},
+{
+  "type": "way",
+  "id": 372288255,
+  "tags": {
+    "alt_name": "Libertad",
+    "highway": "residential",
+    "name": "Calle Ramón Castilla"
+  }
+},
+{
+  "type": "way",
+  "id": 406646011,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 406646018,
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "40",
+    "name": "Avenida Confraternidad"
+  }
+},
+{
+  "type": "way",
+  "id": 406646022,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle 25 de Diciembre"
+  }
+},
+{
+  "type": "way",
+  "id": 406646023,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle 9 de Agosto"
+  }
+},
+{
+  "type": "way",
+  "id": 406784378,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 406784379,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 406784381,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Loreto"
+  }
+},
+{
+  "type": "way",
+  "id": 406784384,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 408909642,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 408909645,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 408913759,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 408913763,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Palmas Reales",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 408914397,
+  "tags": {
+    "access": "private",
+    "highway": "living_street",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 408914398,
+  "tags": {
+    "access": "private",
+    "highway": "living_street",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 419812653,
+  "tags": {
+    "access": "private",
+    "highway": "living_street",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 419812654,
+  "tags": {
+    "highway": "residential",
+    "name": "Las Hiedras",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 419812657,
+  "tags": {
+    "alt_name": "Calle Santa Rose",
+    "highway": "residential",
+    "name": "Calle W"
+  }
+},
+{
+  "type": "way",
+  "id": 419812661,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle 7"
+  }
+},
+{
+  "type": "way",
+  "id": 419812694,
+  "tags": {
+    "highway": "tertiary",
+    "name": "Avenida Las Gaviotas",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 419915128,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 419915130,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Dalias"
+  }
+},
+{
+  "type": "way",
+  "id": 422965994,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 423730773,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Pasaje Calango",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 424124867,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 424124869,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 424124870,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 424124871,
+  "tags": {
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 424124872,
+  "tags": {
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 424124873,
+  "tags": {
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 425205963,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Los Alarifes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428270737,
+  "tags": {
+    "access": "private",
+    "highway": "unclassified",
+    "maxspeed": "30",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428504939,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida 28 de Julio"
+  }
+},
+{
+  "type": "way",
+  "id": 428504943,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida 9 de Diciembre"
+  }
+},
+{
+  "type": "way",
+  "id": 428504946,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida 9 de Diciembre"
+  }
+},
+{
+  "type": "way",
+  "id": 428504948,
+  "tags": {
+    "alt_name": "Avenida Andromeda",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Jirón Andrómeda",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428504953,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Avenida Prolongación Paseo de la República",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428504957,
+  "tags": {
+    "foot": "no",
+    "highway": "secondary",
+    "lanes": "2",
+    "name": "Avenida Santa Anita",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428504961,
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "40",
+    "name": "Avenida Confraternidad",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428504967,
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "40",
+    "name": "Avenida Confraternidad"
+  }
+},
+{
+  "type": "way",
+  "id": 428504970,
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "40",
+    "name": "Avenida Confraternidad"
+  }
+},
+{
+  "type": "way",
+  "id": 428504974,
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "40",
+    "name": "Avenida Confraternidad"
+  }
+},
+{
+  "type": "way",
+  "id": 428504976,
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "40",
+    "name": "Avenida Confraternidad"
+  }
+},
+{
+  "type": "way",
+  "id": 428504981,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Central"
+  }
+},
+{
+  "type": "way",
+  "id": 428504984,
+  "tags": {
+    "highway": "residential",
+    "name": "El Milagro",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428504994,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428504999,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "40",
+    "name": "Avenida General Murillo",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428505006,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Avenida Guardia Peruana",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428505019,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Peruana",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428505027,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30",
+    "name": "Avenida Los Gorriones",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428505029,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Avenida Los Gorriones"
+  }
+},
+{
+  "type": "way",
+  "id": 428505033,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Manglares",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428505035,
+  "tags": {
+    "highway": "residential",
+    "name": "Los Próceres"
+  }
+},
+{
+  "type": "way",
+  "id": 428505037,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Los Próceres",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428505041,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Los Tumbos"
+  }
+},
+{
+  "type": "way",
+  "id": 428505043,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Tumbos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428505046,
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "name": "Calle Palace Atenea",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 428505053,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Calle Teniente Carlos Jiménez Chávez",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428505061,
+  "tags": {
+    "alt_name": "Avenida Los Libertadores",
+    "highway": "residential",
+    "name": "Villa Venturo"
+  }
+},
+{
+  "type": "way",
+  "id": 428505063,
+  "tags": {
+    "alt_name": "Avenida Los Libertadores",
+    "highway": "residential",
+    "name": "Villa Venturo"
+  }
+},
+{
+  "type": "way",
+  "id": 428505079,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428512624,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "4",
+    "maxspeed": "40",
+    "name": "Avenida Los Faisanes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 428517637,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "Avenida Buenos Aires",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 429109702,
+  "tags": {
+    "alt_name": "Avenida 2",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle Los Robles",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 429109703,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Sauces",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 429148943,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Poncianas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 434802078,
+  "tags": {
+    "highway": "residential",
+    "name": "Alamo"
+  }
+},
+{
+  "type": "way",
+  "id": 434802079,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Avenida Los Próceres",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 434802080,
+  "tags": {
+    "alt_name": "Avenida Cordillera Blanca",
+    "highway": "residential",
+    "name": "Avenida Giro Alegría",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 434802081,
+  "tags": {
+    "highway": "residential",
+    "name": "Avenida Giro Alegría"
+  }
+},
+{
+  "type": "way",
+  "id": 434802082,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Bolognesi"
+  }
+},
+{
+  "type": "way",
+  "id": 434802085,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Micaela"
+  }
+},
+{
+  "type": "way",
+  "id": 434802086,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Perú"
+  }
+},
+{
+  "type": "way",
+  "id": 434824347,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Los Alamos",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 434824348,
+  "tags": {
+    "highway": "residential",
+    "name": "Francisco de Zela"
+  }
+},
+{
+  "type": "way",
+  "id": 434824357,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida República Federal República Alemana",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 435174214,
+  "tags": {
+    "alt_name": "Avenida Ficus",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Buenos Aires",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 437328827,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 437356617,
+  "tags": {
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 437358289,
+  "tags": {
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 437363303,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 438006282,
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "noname": "yes",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 438006283,
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "noname": "yes",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 438006285,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 438076428,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 438076429,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 438458749,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Jirón Guardia Civil Norte",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 438487210,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 438487689,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 438496369,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle Andrés Segovia",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 438496370,
+  "tags": {
+    "alt_name": "Calle 10",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30",
+    "name": "Jirón Carlos Mellet Vargas",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 438618448,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 438900982,
+  "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "Avenida Prolongación Paseo de la República",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 438900983,
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "Avenida Prolongación Paseo de la República",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 438942692,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 438942694,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 438942695,
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 439916939,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Víctor Humareda",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 440100842,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Santa Anita",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 441955139,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 447140157,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 447140158,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Palmeras"
+  }
+},
+{
+  "type": "way",
+  "id": 448879855,
+  "tags": {
+    "access": "private",
+    "highway": "living_street",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 448879856,
+  "tags": {
+    "access": "private",
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 464609835,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 465673195,
+  "tags": {
+    "highway": "living_street",
+    "name": "Pasaje Las Rosas"
+  }
+},
+{
+  "type": "way",
+  "id": 482891888,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 512061860,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 512172830,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxheight": "4.9",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 512172832,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 512172834,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 512172836,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxheight": "4.9",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 523897955,
+  "tags": {
+    "highway": "living_street",
+    "name": "Pasaje San Carlos"
+  }
+},
+{
+  "type": "way",
+  "id": 553630264,
+  "tags": {
+    "alt_name": "Avenida Prolongación Ariosto Matellini",
+    "foot": "no",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxheight": "5.5",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 553630265,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 553630266,
+  "tags": {
+    "alt_name": "Avenida Prolongación Ariosto Matellini",
+    "foot": "no",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxheight": "5.5",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 553630268,
+  "tags": {
+    "alt_name": "Avenida Prolongación Ariosto Matellini",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 559496225,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Teniente Carlos Jiménez Chávez"
+  }
+},
+{
+  "type": "way",
+  "id": 565943193,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 565943194,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Progreso"
+  }
+},
+{
+  "type": "way",
+  "id": 567341150,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Huáscar"
+  }
+},
+{
+  "type": "way",
+  "id": 568349991,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 568349992,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Micaela Bastidas"
+  }
+},
+{
+  "type": "way",
+  "id": 568349993,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Piura"
+  }
+},
+{
+  "type": "way",
+  "id": 568349994,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Micaela Bastidas"
+  }
+},
+{
+  "type": "way",
+  "id": 568349995,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 568349996,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 568450945,
+  "tags": {
+    "highway": "residential",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 568450946,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Pinos"
+  }
+},
+{
+  "type": "way",
+  "id": 568450947,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Casuarinas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 569070225,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 569070226,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Oscar del Pomar"
+  }
+},
+{
+  "type": "way",
+  "id": 569070983,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 569088500,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 569266797,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Israel"
+  }
+},
+{
+  "type": "way",
+  "id": 571411087,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle J. Maria Eguren"
+  }
+},
+{
+  "type": "way",
+  "id": 571813625,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Los Trobadores"
+  }
+},
+{
+  "type": "way",
+  "id": 571813626,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Los Músicos"
+  }
+},
+{
+  "type": "way",
+  "id": 571813627,
+  "tags": {
+    "alt_name": "Jirón San Patricio",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "San Pedro",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 572182481,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Republica Federal"
+  }
+},
+{
+  "type": "way",
+  "id": 572182482,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 576476373,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Arequipa"
+  }
+},
+{
+  "type": "way",
+  "id": 576476374,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 594325297,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "noname": "yes",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 603143327,
+  "tags": {
+    "alt_name": "Avenida Andromeda",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Jirón Andrómeda",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 632003427,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 632004779,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 632004780,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 638291321,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Vulcano",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 638291322,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "4",
+    "maxspeed": "40",
+    "name": "Avenida Los Faisanes",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 638291323,
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "name": "Jirón Artemisa",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 670367434,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 673004533,
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "40",
+    "name": "Avenida Confraternidad"
+  }
+},
+{
+  "type": "way",
+  "id": 691473399,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 691473400,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 699984398,
+  "tags": {
+    "highway": "primary",
+    "lanes": "5",
+    "maxspeed": "60",
+    "name": "Avenida Prolongación Paseo de la República",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 699984399,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 699984400,
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "Avenida Alameda Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 699985912,
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 699985913,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 727358299,
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 758559051,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 758559052,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 758559054,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "40",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 758559055,
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 758559061,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 758559063,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 758559064,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 758562495,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "Avenida San Juan",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 758562496,
+  "tags": {
+    "alt_name": "Avenida Ficus",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Vista Alegre",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759034123,
+  "tags": {
+    "alt_name": "Avenida Prolongación Ariosto Matellini",
+    "foot": "no",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 759034124,
+  "tags": {
+    "alt_name": "Avenida Prolongación Ariosto Matellini",
+    "foot": "no",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 771651194,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Artemisa"
+  }
+},
+{
+  "type": "way",
+  "id": 771850590,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Las Gaviotas",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 822863629,
+  "tags": {
+    "bicycle": "no",
+    "full_name": "Avenida General Alipio Ponce Vasquez",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Alipio Ponce",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 829719933,
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "name": "Pasaje El Milagro",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 829723975,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Avenida Los Faisanes",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 829924915,
+  "tags": {
+    "highway": "living_street",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 829924916,
+  "tags": {
+    "highway": "living_street",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 829927269,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Avenida El Sol",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 830046323,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 830046324,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 830046325,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "lanes": "2",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 833930015,
+  "tags": {
+    "access": "private",
+    "highway": "unclassified"
+  }
+},
+{
+  "type": "way",
+  "id": 865345991,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Calle Los Faisanes"
+  }
+},
+{
+  "type": "way",
+  "id": 892580685,
+  "tags": {
+    "alt_name": "Avenida de la Guardia Civil",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 892580686,
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 892580687,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30",
+    "name": "Calle Los Meteoros",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 892580688,
+  "tags": {
+    "cycleway:both": "no",
+    "cycleway:right": "track",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 892580689,
+  "tags": {
+    "cycleway:both": "no",
+    "cycleway:right": "track",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 893014048,
+  "tags": {
+    "alt_name": "Santa Cruz",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 893014049,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "foot": "no",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 893016061,
+  "tags": {
+    "alt_name": "Avenida Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 893016062,
+  "tags": {
+    "alt_name": "Avenida Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 893098412,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 893098413,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 923031356,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Jirón Guardia Civil Norte",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 951861558,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Cocharcas"
+  }
+},
+{
+  "type": "way",
+  "id": 951881792,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 951881793,
+  "tags": {
+    "highway": "residential",
+    "lanes": "1",
+    "noname": "yes",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 951881794,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Diamantes"
+  }
+},
+{
+  "type": "way",
+  "id": 951881795,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Diamantes"
+  }
+},
+{
+  "type": "way",
+  "id": 951881796,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Violetas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 951881797,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Sauces",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 957462048,
+  "tags": {
+    "highway": "residential",
+    "name": "Pasaje Selene"
+  }
+},
+{
+  "type": "way",
+  "id": 992378379,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 992379540,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 992379541,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 992380293,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 992918075,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Faisanes"
+  }
+},
+{
+  "type": "way",
+  "id": 995055041,
+  "tags": {
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 995270185,
+  "tags": {
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 995270186,
+  "tags": {
+    "access": "private",
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 1066622384,
+  "tags": {
+    "highway": "primary",
+    "lanes": "5",
+    "maxspeed": "60",
+    "name": "Avenida Prolongación Paseo de la República",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1066622385,
+  "tags": {
+    "alt_name": "Avenida Prolongación Ariosto Matellini",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1094779305,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1094779306,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Rinconada de Villa",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1094779307,
+  "tags": {
+    "highway": "residential",
+    "name": "10 de Noviembre",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1095035899,
+  "tags": {
+    "access": "private",
+    "alt_name": "Calle 10",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30",
+    "name": "Jirón Carlos Mellet Vargas",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1095035900,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Jorge Luis Borges",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1095208343,
+  "tags": {
+    "highway": "residential",
+    "name": "Virgen del Carmen"
+  }
+},
+{
+  "type": "way",
+  "id": 1095216246,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Los Poetas"
+  }
+},
+{
+  "type": "way",
+  "id": 1095216247,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Los Manglares",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1096045155,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Doña Nelly",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1096045156,
+  "tags": {
+    "alt_name": "Calle Santa Rose",
+    "highway": "residential",
+    "name": "Calle W"
+  }
+},
+{
+  "type": "way",
+  "id": 1096045157,
+  "tags": {
+    "alt_name": "Calle Doña Maria",
+    "highway": "residential",
+    "name": "Calle Z",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1096045158,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1096045159,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1096048840,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Doña Nelly",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1096048845,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Doña Victoria",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1096048846,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Doña Victoria",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1096048847,
+  "tags": {
+    "highway": "living_street",
+    "lanes": "2",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1130830804,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1130830805,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Andrés Avelino Caceres"
+  }
+},
+{
+  "type": "way",
+  "id": 1149006397,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "Avenida Alameda Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1149006398,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "Avenida Caminos del Inca",
+    "old_name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1149006399,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "60",
+    "name": "Avenida Caminos del Inca",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1149006400,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1149006401,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "60",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1149006958,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "80",
+    "name": "Avenida Caminos del Inca",
+    "old_name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1149006967,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150041622,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Virgen del Carmen"
+  }
+},
+{
+  "type": "way",
+  "id": 1150041623,
+  "tags": {
+    "alt_name": "Avenida Vista Alegre",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Buenos Aires",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150041624,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "maxspeed": "60",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1150498926,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Peruana",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150498927,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Peruana",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150498928,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Peruana",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150498929,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Peruana",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150499856,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Peruana",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150499857,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Avenida Guardia Peruana",
+    "oneway": "yes",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150501282,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Rinconada de Villa",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150502590,
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "40",
+    "name": "Avenida Confraternidad"
+  }
+},
+{
+  "type": "way",
+  "id": 1150502591,
+  "tags": {
+    "alt_name": "Avenida Ficus",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Buenos Aires",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150502592,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Avenida Los Próceres",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150522084,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Peruana",
+    "oneway": "yes",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150530048,
+  "tags": {
+    "highway": "tertiary",
+    "name": "Pasaje Perú"
+  }
+},
+{
+  "type": "way",
+  "id": 1150530049,
+  "tags": {
+    "highway": "tertiary",
+    "name": "Pasaje Perú",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150530050,
+  "tags": {
+    "highway": "tertiary",
+    "name": "Calle Ciro Alegría"
+  }
+},
+{
+  "type": "way",
+  "id": 1150542283,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150542284,
+  "tags": {
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1150556683,
+  "tags": {
+    "alt_name": "Avenida Prolongación Ariosto Matellini",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015600,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Los Orfebres",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015601,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Los Orfebres",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015602,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Erick Fromm",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015603,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Harold Crown",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015604,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Manglares",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015605,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Artesanos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015606,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Poetas"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015607,
+  "tags": {
+    "highway": "residential",
+    "name": "Los Tumbos"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015608,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Algarrobos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015609,
+  "tags": {
+    "highway": "residential",
+    "name": "Samanes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015610,
+  "tags": {
+    "alt_name": "Jirón Los Zungaros",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Los Zungaros",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015611,
+  "tags": {
+    "alt_name": "Jirón Los Zungaros",
+    "cycleway:both": "no",
+    "highway": "residential",
+    "lanes": "2",
+    "lanes:backward": "1",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "name": "Los Zungaros",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015612,
+  "tags": {
+    "access": "private",
+    "alt_name": "Jirón Manuel Raygada",
+    "cycleway:both": "no",
+    "highway": "residential",
+    "name": "Calle Manuel Raygada",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015613,
+  "tags": {
+    "alt_name": "Jirón Manuel Raygada",
+    "cycleway:both": "no",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Calle Manuel Raygada",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015614,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle Karamanduka",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1151015615,
+  "tags": {
+    "highway": "residential",
+    "name": "Bartola Sánchez Dávila",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1159702873,
+  "tags": {
+    "alt_name": "Avenida Ficus",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Vista Alegre",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1167892777,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1167892778,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1167892779,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1167892780,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1167918201,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1175520930,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1175520932,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1175520933,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1175520934,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1175520935,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1175549852,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1175564113,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1179635371,
+  "tags": {
+    "access": "private",
+    "alt_name": "Jirón Los Zungaros",
+    "highway": "residential",
+    "name": "Calle Los Zúngaros",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1179635372,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Campanillas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1179635373,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Las Capironas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1179635374,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Avenida Guardia Peruana"
+  }
+},
+{
+  "type": "way",
+  "id": 1180377324,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1180377326,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1180377327,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1182162392,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1182162393,
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "40",
+    "name": "Jirón Las Gaviotas",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1182162394,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida El Sol",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1182162395,
+  "tags": {
+    "alt_name": "Avenida Andromeda",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Andrómeda",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1182162396,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1182162397,
+  "tags": {
+    "alt_name": "Jirón Manuel Raygada",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Calle Manuel Raygada",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1182162398,
+  "tags": {
+    "alt_name": "Jirón Manuel Raygada",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Calle Manuel Raygada",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1182162399,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1201767892,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Doña Mercedes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1229007402,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Calle Los Pintores",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1229007403,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Los Escritores",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1229007404,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Poetas"
+  }
+},
+{
+  "type": "way",
+  "id": 1316507456,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Artemisa",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1335157599,
+  "tags": {
+    "access": "private",
+    "alt_name": "Jirón Manuel Raygada",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Calle Manuel Raygada",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1343020936,
+  "tags": {
+    "alt_name": "Jirón Manuel Raygada",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Calle Manuel Raygada",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1343446993,
+  "tags": {
+    "foot": "no",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Avenida Los Faisanes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1343629134,
+  "tags": {
+    "foot": "no",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenida Guardia Civil Sur",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1343629135,
+  "tags": {
+    "bicycle": "no",
+    "foot": "no",
+    "full_name": "Avenida General Alipio Ponce Vasquez",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Alipio Ponce",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1343629136,
+  "tags": {
+    "bicycle": "no",
+    "foot": "no",
+    "full_name": "Avenida General Alipio Ponce Vasquez",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Alipio Ponce",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1347026896,
+  "tags": {
+    "access": "no",
+    "highway": "residential",
+    "lanes": "2",
+    "locked": "yes",
+    "name": "Lizandro de la Puente C.",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1348001737,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1348001738,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1348001739,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1348001740,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1360829128,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1360829129,
+  "tags": {
+    "highway": "secondary",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1360880020,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Víctor Humareda",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1360880021,
+  "tags": {
+    "access": "no",
+    "highway": "residential",
+    "locked": "yes",
+    "name": "Jirón Víctor Humareda",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1360880022,
+  "tags": {
+    "highway": "residential",
+    "name": "Jirón Víctor Humareda",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1379863120,
+  "tags": {
+    "access": "no",
+    "barrier": "gate",
+    "highway": "residential",
+    "locked": "yes",
+    "name": "10 de Noviembre",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1379863121,
+  "tags": {
+    "access": "no",
+    "barrier": "gate",
+    "highway": "residential",
+    "locked": "yes",
+    "name": "10 de Noviembre",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1379863122,
+  "tags": {
+    "highway": "residential",
+    "name": "10 de Noviembre",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1384640485,
+  "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Calle Jorge Luis Borges",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1384640486,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Jirón Ernesto",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1384640487,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Calle Andrés Segovia",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1384640488,
+  "tags": {
+    "alt_name": "Calle 10",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "30",
+    "name": "Jirón Carlos Mellet Vargas",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 1384640489,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Benjamín Franklin",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1408853085,
+  "tags": {
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 1415166043,
+  "tags": {
+    "alt_name": "Jirón Los Zungaros",
+    "highway": "residential",
+    "name": "Calle Los Zúngaros",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1415166044,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Manglares",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1415166045,
+  "tags": {
+    "alt_name": "Jirón Los Zungaros",
+    "highway": "residential",
+    "name": "Calle Los Zúngaros",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1415166046,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Las Capironas",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1415166047,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Tumbos",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1427915016,
+  "tags": {
+    "highway": "residential",
+    "name": "Calle Los Pinos",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1443636807,
+  "tags": {
+    "highway": "residential",
+    "name": "16 de Noviembre"
+  }
+},
+{
+  "type": "way",
+  "id": 1443636808,
+  "tags": {
+    "highway": "residential",
+    "name": "16 de Noviembre"
+  }
+},
+{
+  "type": "way",
+  "id": 1450175525,
+  "tags": {
+    "alt_name": "Jirón Manuel Raygada",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Calle Manuel Raygada",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1450175526,
+  "tags": {
+    "alt_name": "Jirón Manuel Raygada",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Calle Manuel Raygada",
+    "sidewalk:both": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1450175527,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1450175528,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1450416968,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1450416971,
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "sidewalk:right": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1483301839,
+  "tags": {
+    "alt_name": "Avenida Ex-Huaylas",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "3",
+    "name": "Avenida Defensores del Morro",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1507516430,
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "Avenida Prolongación Paseo de la República",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1507516431,
+  "tags": {
+    "alt_name": "Avenida Prolongación Ariosto Matellini",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Ariosto Matellini",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1507516432,
+  "tags": {
+    "cycleway:right": "no",
+    "highway": "primary",
+    "lanes": "5",
+    "maxspeed": "60",
+    "name": "Avenida Prolongación Paseo de la República",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+}
+
+  ]
+}
